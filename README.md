@@ -5,7 +5,8 @@ email:andyc6074@hstat.org
 
 school:High School of Telecommunication Arts and Technology
 
-bio:I was born in ohio and I'm chinese.I like to read novel and go to sleep.
+bio:I was born in ohio and I'm chinese.I like to read novel and going to sleep.
+I dont have alot to write about me and I dont have much prefence but my my emotions change rapidly sometime.
 
 schedule;
 * period 1: gobal history
