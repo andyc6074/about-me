@@ -13,7 +13,8 @@ Likes
 1. sleep
 2. novel
 3. games
- 
+4. [dog](https://images.news18.com/ibnlive/uploads/2021/08/1628056310_dogdrinking-1200x800.png)
+
 dislike  
 1. people who have no sense of personal space
 2. people who cant seem to stop talking
