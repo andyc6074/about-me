@@ -1,9 +1,9 @@
 # about-me
 name:Andy Chen
 
-email:andyc6074@hstat.org
+**school:High School of Telecommunication Arts and Technology**
 
-school:High School of Telecommunication Arts and Technology
+_email:andyc6074@hstat.org_
 
 bio:I was born in ohio and I'm chinese.I like to read novel and going to sleep.
 I dont have alot to write about me and I dont have much prefence but my my emotions change rapidly sometime.
