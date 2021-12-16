@@ -8,7 +8,7 @@ school:High School of Telecommunication Arts and Technology
 bio:I was born in ohio and I'm chinese.I like to read novel and going to sleep.
 I dont have alot to write about me and I dont have much prefence but my my emotions change rapidly sometime.
 
-####**schedule;**
+schedule;
 * period 1: gobal history
 * period 2: algebra
 * period 3: spanish 3
