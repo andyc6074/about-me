@@ -8,6 +8,8 @@ _email:andyc6074@hstat.org_
 bio:I was born in ohio and I'm chinese.I like to read novel and going to sleep.
 I dont have alot to write about me and I dont have much prefence but my my emotions change rapidly sometime.
 
+---
+
 ### schedule;
 * period 1: gobal history
 * period 2: algebra
